@@ -1,0 +1,17 @@
+{
+  "name": "redmongo",
+  "version": "1.0.0",
+  "description": "It is a mongodb layer package which helps in simplify connect and modify with mongodb database",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dinesh",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "mongodb": "^4.3.1"
+  }
+}
